@@ -1,3 +1,3 @@
-# Hierarchical-Contrastive-Learning-for-Video-Based-Freezing-of-Gait-Prediction
+# IMU2SKE
 
-We will release the code for "IMU2SKE:Hierarchical Contrastive Learning for Video-Based Freezing of Gait Prediction" once the work is accepted.
+We will release the code for "IMU2SKE" once the work is accepted.
